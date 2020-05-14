@@ -1,0 +1,18 @@
+***INSTRUCTIONS***
+
+[1. Open command prompt and check if pip is installed:]
+pip --version
+[2. Install selenium using pip:]
+pip install selenium
+[3. Verify if selenium was installed successfully:]
+ipython
+then
+import selenium
+[4. Install chromedriver:]
+Go to this link: https://sites.google.com/a/chromium.org/chromedriver/downloads
+Download the matching version of chromedriver with your google chrome version (go to your upper right button and click on help 
+then go to about chrome to see your current version)
+[5.] Then open up a text editor or an IDE that supports python and watch me as I introduce you to python selenium
+
+Download link for ChromeDriver : https://sites.google.com/a/chromium.org/chromedriver/downloads
+
